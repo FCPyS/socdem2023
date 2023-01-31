@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "SOCDEM-2023"
+  site-url: https://fcpys.github.io/socdem2023/
+  repo-url: https://github.com/fcpys/socdem2023/
+  repo-branch: main
+  repo-actions: [edit, issue]
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: equipo.qmd
+        text: Equipo docente
+      - href: about.qmd
+        text: Programa 
+      - href: video.qmd
+        text: Multimedia 
+
+format:
+  html:
+    theme: 
+      light: spacelab
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+

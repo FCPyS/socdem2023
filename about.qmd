@@ -1,0 +1,9 @@
+---
+title: "Programa de trabajo"
+---
+
+El programa de trabajo se puede consultar acá
+
+<iframe src="./socdem2023.pdf" title="Plan de Trabajo" width="960" height="500">
+
+</iframe>

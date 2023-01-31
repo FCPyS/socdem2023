@@ -1,0 +1,63 @@
+# Material anexo {.unnumbered}
+
+## Lista general de YouTube
+
+<https://www.youtube.com/playlist?list=PLDnSa5YhrAVlczarJEzgR_bxFGbg9MGEU>
+
+## Scripts
+
+Los scripts están en esta carpeta: <https://github.com/aniuxa/posgrado_modelo3/tree/main/scripts>
+
+## Cuestionarios
+
+### Primer cuestionario
+
+Después de la sesión 1 y 2
+
+[Cuestionario](https://forms.gle/EQnP9SvpWoTWLRm86)
+
+### Segundo cuestionario
+
+Después de la sesión 3 y 4
+
+[Cuestionario](https://forms.gle/xtLmmXPBHDR273sv5)
+
+## Sesión 1
+
+### Video
+
+{{< video https://youtu.be/D4KgiEX7rB8 >}}
+
+### Cheat Sheets
+
+-   RStudio IDE: <https://raw.githubusercontent.com/rstudio/cheatsheets/main/rstudio-ide.pdf>
+
+-   dplyr: <https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-transformation.pdf>
+
+## Sesión 2
+
+### Video
+
+{{< video https://youtu.be/6aOjB4zJElg >}}
+
+### Cheat Sheets
+
+-   ggplot2: <https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf>
+
+## Sesión 3
+
+### Video
+
+{{< video https://youtu.be/B51jPamdySw >}}
+
+## Sesión 4
+
+### Video
+
+{{< video https://youtu.be/g68kbzGLwp4 >}}
+
+## Sesión 5
+
+### Video
+
+{{< video https://youtu.be/-GMaokuD2eI >}}
