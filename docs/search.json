@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "clases.html",
+    "href": "clases.html",
+    "title": "Clases y más",
+    "section": "",
+    "text": "Dejo la presentación de las primeras semanas por las altas y bajas."
+  },
+  {
+    "objectID": "clases.html#control-de-estados",
+    "href": "clases.html#control-de-estados",
+    "title": "Clases y más",
+    "section": "Control de estados",
+    "text": "Control de estados\nAquí te anotas para tus estados (https://docs.google.com/spreadsheets/d/1e7ZyEckrUDH7izaBK4Fr0n749bNYDRYDNxHuWgIS1mo/edit?usp=sharing)"
+  },
+  {
     "objectID": "index.html#objetivo",
     "href": "index.html#objetivo",
     "title": "Sociodemografía",
@@ -35,6 +49,13 @@
     "text": "El programa de trabajo se puede consultar acá"
   },
   {
+    "objectID": "video.html#tema-2-fuentes-de-información",
+    "href": "video.html#tema-2-fuentes-de-información",
+    "title": "Videos y otros recursos",
+    "section": "Tema 2: Fuentes de información",
+    "text": "Tema 2: Fuentes de información\n\nBodoque Censista\n\n\n\nDra. Victoria Prieto: Big Data y Migración"
+  },
+  {
     "objectID": "equipo.html",
     "href": "equipo.html",
     "title": "Equipo docente",
@@ -46,6 +67,13 @@
     "href": "equipo.html#tián-ramos-betancourt",
     "title": "Equipo docente",
     "section": "Tián Ramos Betancourt",
-    "text": "Tián Ramos Betancourt\nEstudiante de Sociología"
+    "text": "Tián Ramos Betancourt\nEstudiante de Licenciatura en Sociología (FCPyS)"
+  },
+  {
+    "objectID": "equipo.html#stephanie-alarcón",
+    "href": "equipo.html#stephanie-alarcón",
+    "title": "Equipo docente",
+    "section": "Stephanie Alarcón",
+    "text": "Stephanie Alarcón\nEstudianr de Maestría en Demografía Social (PCPyS)"
   }
 ]

@@ -15,7 +15,9 @@ website:
       - href: equipo.qmd
         text: Equipo docente
       - href: about.qmd
-        text: Programa 
+        text: Programa
+      - href: clases.qmd
+        text: Clases 
       - href: video.qmd
         text: Multimedia 
 
