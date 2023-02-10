@@ -6,7 +6,7 @@ title: "Clases y más"
 Dejo la presentación de las primeras semanas por las altas y bajas. 
 
 
-<iframe src="./clases31ene_10feb.pdf" title="Plan de Trabajo"> </iframe>
+<iframe src="./clases31ene_10feb.pdf" title="Powerpoint" width="960" height="500"> </iframe>
 
 
 ## Control de estados 
