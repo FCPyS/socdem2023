@@ -8,16 +8,12 @@ title: "Videos y otros recursos"
 
 {{< video https://youtu.be/QI9q7OQk4HU >}}
 
-
 ## Tema 2: Fuentes de información
 
 ### Bodoque Censista
 
 {{< video https://youtu.be/igV8OAyL2f4 >}}
 
-
 ### Dra. Victoria Prieto: Big Data y Migración
 
 {{< video https://youtu.be/MYTlGAtEcqY >}}
-
-
